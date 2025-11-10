@@ -17,9 +17,15 @@ Foram escolhidos quatro exercícios da plataforma online e dividido entre a dupl
 
 
 ## Screenshots
--
+-[148. Sort List (Médio)](leetcode.com/problems/sort-list/)
+![148](assets/148.png)
+![](assets/148submitted.png)
+[Código](code/148.py)
 
--
+-[493. Reverse Pairs (Díficil)](leetcode.com/problems/reverse-pairs/)
+![](assets/493.png)
+![](assets/493submitted.png)
+[Código](code/493.py)
 
 ## Instalação 
 **Linguagem**: Python<br>
