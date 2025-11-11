@@ -46,7 +46,9 @@ Foram escolhidos quatro exercícios da plataforma online e dividido entre a dupl
 ## Instalação 
 **Linguagem**: Python e C++<br>
 
-
+## Video
 -[Video](https://drive.google.com/file/d/1d9BIfIQuhtKYA-DH82tJbh2m2v5A2m2X/view?usp=sharing)
+
+## Slides (4, 215, 315)
 -[Slides](https://docs.google.com/presentation/d/1IwQV-L2-TCdv1SxLaaw7r2_IyVuiMukm1pgGCZLnr9w/edit?usp=sharing)
 
