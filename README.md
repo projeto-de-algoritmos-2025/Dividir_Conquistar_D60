@@ -47,11 +47,6 @@ Foram escolhidos quatro exercícios da plataforma online e dividido entre a dupl
 **Linguagem**: Python e C++<br>
 
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
+-[Video](https://drive.google.com/file/d/1d9BIfIQuhtKYA-DH82tJbh2m2v5A2m2X/view?usp=sharing)
+-[Slides](https://docs.google.com/presentation/d/1IwQV-L2-TCdv1SxLaaw7r2_IyVuiMukm1pgGCZLnr9w/edit?usp=sharing)
 
